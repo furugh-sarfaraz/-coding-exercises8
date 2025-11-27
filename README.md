@@ -1,0 +1,1 @@
+JavaScript practice exercises focusing on conditional statements, logical operators, switch cases, and variable manipulations. Includes step-by-step examples to strengthen problem-solving and coding skills.
